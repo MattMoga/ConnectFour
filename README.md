@@ -16,7 +16,7 @@ This repository contains a Java implementation of the classic Connect Four game.
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/ConnectFour.git
+    git clone https://github.com/MattMoga/ConnectFour.git
     cd ConnectFour
     ```
 
